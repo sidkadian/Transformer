@@ -72,8 +72,6 @@
 		36A52E1125DBA5C3001E6505 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36A52E1625DBA5C3001E6505 /* TransformerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TransformerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		36A52E1C25DBA5C3001E6505 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		36A52E2525DBA5C3001E6505 /* TransformerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformerUITests.swift; sourceTree = "<group>"; };
-		36A52E2725DBA5C3001E6505 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36A52E4B25DBA6FE001E6505 /* ServiceConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceConstants.swift; sourceTree = "<group>"; };
 		36A52E5025DBA71F001E6505 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		36A52E5525DBA743001E6505 /* KeyChain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyChain.swift; sourceTree = "<group>"; };
@@ -149,7 +147,6 @@
 			children = (
 				36A52E0225DBA5C2001E6505 /* Transformer */,
 				36A52E1925DBA5C3001E6505 /* TransformerTests */,
-				36A52E2425DBA5C3001E6505 /* TransformerUITests */,
 				36A52E0125DBA5C2001E6505 /* Products */,
 				692AECA47FECC14F2E3ACFAA /* Pods */,
 				7CE100E9600F8802B44F9921 /* Frameworks */,
@@ -193,15 +190,6 @@
 				36A52E1C25DBA5C3001E6505 /* Info.plist */,
 			);
 			path = TransformerTests;
-			sourceTree = "<group>";
-		};
-		36A52E2425DBA5C3001E6505 /* TransformerUITests */ = {
-			isa = PBXGroup;
-			children = (
-				36A52E2525DBA5C3001E6505 /* TransformerUITests.swift */,
-				36A52E2725DBA5C3001E6505 /* Info.plist */,
-			);
-			path = TransformerUITests;
 			sourceTree = "<group>";
 		};
 		36A52E4225DBA601001E6505 /* SupportFiles */ = {
